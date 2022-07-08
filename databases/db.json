@@ -1,0 +1,28 @@
+{
+    "token": "NjY5NTc1MDEwODA5MTUxNTI4.GrC0w1.Vean-OA8odu-98j3MSobSb7KTbLhvnxAKuujaE",
+    "channelid": "802963652436557875",
+    "ownerid": "796828311664984144",
+
+
+    "owosystemstatus": "0",
+    "captchasecurity": "1",
+    "systems": {
+        "whunt": "1",
+        "wbattle": "1",
+        "whug": "1",
+        "wkiss": "1",
+        "wcf": "1"
+    },
+    "securitytime": "3",
+    "owomessage": "0",
+    "owomessagestatus": "0",
+    "owomessagetype": "0",
+    "owosecurity": "1",
+    "autosell": "0",
+    "autogive": "0",
+    "hunt": 1,
+    "battle": 1,
+    "kiss": 1,
+    "hug": 1,
+    "cf": 1
+}
